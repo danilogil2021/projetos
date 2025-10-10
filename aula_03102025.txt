@@ -1,3 +1,5 @@
+Aula do dia 03/10/2025
+
 my_words = ["Hi!", "meu nome e danilo", "Kodland"] 
 print(my_words[1])
 my_words = ["Hi!", "gosto de jogar futebol", "Kodland"] 
