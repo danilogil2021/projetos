@@ -1,0 +1,13 @@
+my_words = ["Hi!", "meu nome e danilo", "Kodland"] 
+print(my_words[1])
+my_words = ["Hi!", "gosto de jogar futebol", "Kodland"] 
+print(my_words[1])
+my_words = ["Hi!", "tinha uma cachorra chamada estrela", "Kodland"] 
+print(my_words[1])
+my_words = ["Hi!", "vou colocar fato aleatorio", "Kodland"] 
+print(my_words[1])
+
+import random
+
+emojis = [ "                                                                                                              sou copetitivo em jogos", "eu jogo roblox comm meus primos"]
+print(random.choice(emojis))
